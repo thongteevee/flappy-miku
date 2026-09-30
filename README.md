@@ -1,6 +1,6 @@
 # Flappy Miku
 
-A Flappy Bird style browser game written from scratch in TypeScript, with no game engine. Everything runs on a single HTML canvas.
+A Flappy Bird style browser game in TypeScript, with no game engine. Everything runs on a single HTML canvas. I built the core from scratch, then used AI to help refine and extend it.
 
 ## Features
 - Menu, gameplay, and game over scenes managed by a small scene system
